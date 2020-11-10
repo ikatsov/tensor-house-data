@@ -1,2 +1,2 @@
-# tensot-house-data
-Datasets for the TensorHouse project
+# tensor-house-data
+Datasets for the (TensorHouse)[https://github.com/ikatsov/tensor-house] project
