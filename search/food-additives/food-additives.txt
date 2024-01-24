@@ -1,0 +1,81 @@
+Ingredient name: E322 Lecithin
+Description: Lecithin is a naturally occurring fatty substance found in various plant and animal tissues. It is a complex mixture of phospholipids and other lipids. Here are some of its physical properties:
+- Form: Lecithin typically exists as an oily or waxy substance, depending on its source and processing.
+- Color and Odor: It is usually yellowish to brownish in color, with a characteristic odor.
+- Solubility: Lecithin is amphiphilic, meaning it has both hydrophilic (water-attracting) and hydrophobic (water-repelling) regions. As a result, it exhibits emulsifying properties and is soluble in both water and fat.
+- Melting Point: The melting point of lecithin can vary depending on its composition but is generally in the range of 20°C to 70°C (68°F to 158°F).
+- Density: Lecithin's density is typically around 0.93 g/cm³.
+- Source: It is commonly derived from sources such as soybeans, egg yolks, sunflower seeds, or other plant and animal tissues.
+- Applications: Lecithin is widely used in various industries, including food manufacturing, pharmaceuticals, and cosmetics, as an emulsifier, stabilizer, and dispersant.
+- Hygroscopicity: Lecithin has some hygroscopic properties, meaning it can attract and hold moisture from the surrounding environment.
+- Chemical Structure: Structurally, lecithin is composed of phosphoric acid, glycerol, fatty acids, and choline or other head groups, depending on the specific type.
+
+Ingredient name: E330 Citric acid
+Description: Citric acid is a weak organic acid found in citrus fruits and is commonly used as a food additive and flavor enhancer. Here are some of its physical properties:
+- Appearance: Citric acid is a white crystalline powder or granules.
+- Solubility: It is highly soluble in water, which makes it a versatile ingredient in various food and beverage applications.
+- Taste: Citric acid has a sour and tart taste, which is why it is often used to add acidity and brightness to foods and beverages.
+- Melting Point: The melting point of citric acid is approximately 153 °C (307 °F).
+- Density: The density of citric acid depends on its form (anhydrous or monohydrate), but it generally has a density of around 1.665 g/cm³.
+- pH: In water, citric acid exhibits an acidic pH, typically around 2.2, due to its ability to release hydrogen ions.
+- Hygroscopicity: Citric acid is hygroscopic, meaning it can absorb moisture from the air, which can affect its physical properties and handling.
+- Stability: Citric acid is relatively stable under normal conditions, but it may degrade at very high temperatures.
+
+Ingredient name: E441 Gelatin
+Description: Gelatin is a protein derived from the collagen found in animal tissues, primarily from bones and skin. Here's a summary of its physical properties:
+- Form: Gelatin is commonly available in the form of a translucent, colorless, or light yellow powder.
+- Solubility: Gelatin is hydrophilic, meaning it readily dissolves in hot water. However, it forms a gel-like substance when cooled, which gives it its characteristic gelatinous texture.
+- Gelling Ability: One of the most important physical properties of gelatin is its ability to form gels. When dissolved in hot water and cooled, it undergoes a reversible gelation process, where a gel network is formed, trapping water molecules within the matrix.
+- Melting Point: Gelatin does not have a distinct melting point like many substances. Instead, its gels can transition between solid and liquid states over a range of temperatures.
+- Texture and Mouthfeel: Gelatin gels have a smooth, soft texture, which provides a pleasant mouthfeel in various food products like desserts, gummy candies, and marshmallows.
+- Amino Acid Composition: Gelatin is rich in amino acids, especially glycine, proline, and hydroxyproline, which contribute to its unique properties.
+- Source: Gelatin is derived from animal collagen, often sourced from pigskin, cow hides, or bones.
+- Bloom Strength: Gelatin's strength and ability to form gels are measured by its "bloom" value. Higher bloom values indicate stronger gelling properties.
+- Water Holding Capacity: Gelatin has excellent water holding capacity, which is why it is used as a thickener and stabilizer in various food products.
+- Applications: Gelatin is widely used in the food industry for producing gummy candies, desserts, soups, broths, and as a stabilizer in some dairy products. It is also used in pharmaceuticals, photography, cosmetics, and other industrial applications.
+- Hygroscopicity: Gelatin is hygroscopic, meaning it can attract and retain moisture from the surrounding environment.
+
+Ingredient name: E951 Aspartame
+Description: Aspartame is an artificial sweetener that is widely used as a sugar substitute in various food and beverage products. Here's a summary of its physical properties:
+- Form: Aspartame is a white, crystalline powder or granules.
+- Sweetness: Aspartame is approximately 150 to 200 times sweeter than sucrose (table sugar), making it an intense sweetener.
+- Solubility: Aspartame is highly soluble in water and dissolves readily in aqueous solutions.
+- Stability: Aspartame is not heat-stable, and it can degrade at high temperatures or in acidic conditions. Therefore, it is often used in products that do not require prolonged exposure to heat or acidity.
+- pH Sensitivity: Aspartame's sweetness can be affected by the pH level of the solution it is dissolved in. Its sweetness may decrease at low pH (acidic) levels and increase at high pH (alkaline) levels.
+- Caloric Value: Aspartame is virtually calorie-free, as the human body does not metabolize it into energy like sugars or carbohydrates.
+- Source: Aspartame is chemically synthesized and is not found naturally in foods.
+- Taste Profile: Aspartame provides a clean, sweet taste without any bitter or metallic aftertaste.
+- Decomposition: Aspartame can decompose under certain conditions, forming byproducts such as aspartylphenylalanine diketopiperazine (DKP) when exposed to heat and humidity. This decomposition can affect the taste and sweetness of products containing aspartame over time.
+- Applications: Aspartame is commonly used as a sugar substitute in a wide range of products, including soft drinks, desserts, candies, chewing gum, and other low-calorie or sugar-free food items.
+- Phenylalanine Concern: Aspartame contains the amino acid phenylalanine, which is a concern for individuals with phenylketonuria (PKU), a rare genetic disorder. PKU patients need to limit their phenylalanine intake, so they must avoid products containing aspartame.
+
+Ingredient name: E955 Sucralose
+Description: Sucralose is an artificial sweetener that is widely used as a sugar substitute in various food and beverage products. Here's a summary of its physical properties:
+- Form: Sucralose is a white, crystalline powder.
+- Sweetness: Sucralose is approximately 400 to 700 times sweeter than sucrose (table sugar), making it an intense sweetener.
+- Solubility: Sucralose is highly soluble in water, which allows for easy incorporation into a wide range of food and beverage applications.
+- Stability: Sucralose is heat-stable and remains sweet even at high temperatures, making it suitable for cooking and baking.
+- pH Stability: Sucralose is stable over a wide pH range, making it suitable for use in both acidic and alkaline products.
+- Caloric Value: Sucralose is virtually calorie-free, as it is not metabolized by the body for energy.
+- Source: Sucralose is chemically synthesized from sucrose through a process that substitutes chlorine atoms for certain hydroxyl groups.
+- Taste Profile: Sucralose provides a sweet taste similar to sucrose without any bitter or metallic aftertaste.
+- Applications: Sucralose is commonly used as a sugar substitute in a wide variety of products, including beverages, desserts, baked goods, dairy products, and other low-calorie or sugar-free items.
+- Stability under Processing: Sucralose can withstand various processing conditions, including pasteurization, baking, and freezing, without losing its sweetness.
+- Non-Cariogenic: Sucralose does not promote tooth decay and is considered non-cariogenic.
+- Digestive Stability: Sucralose is not broken down by digestive enzymes and is excreted from the body unchanged, resulting in minimal caloric contribution.
+- Acceptable Daily Intake (ADI): Sucralose has an established ADI set by regulatory authorities, indicating the amount considered safe for daily consumption.
+
+Ingredient name: E500 Sodium bicarbonate
+Description: Sodium bicarbonate, commonly known as baking soda, is a chemical compound with various physical properties. Here's a summary of its physical characteristics:
+- Form: Sodium bicarbonate exists as a white, crystalline powder or fine granules.
+- Solubility: It is moderately soluble in water. When mixed with water, it dissociates into sodium ions, bicarbonate ions, and carbon dioxide gas.
+- Taste and Odor: Sodium bicarbonate has a slightly salty and alkaline taste, and it is odorless.
+- Melting Point: The melting point of sodium bicarbonate is approximately 50°C (122°F). When heated further, it undergoes decomposition, releasing carbon dioxide and water.
+- Density: The density of sodium bicarbonate is around 2.2 g/cm³.
+- pH: Sodium bicarbonate is a basic compound, and when dissolved in water, it acts as a buffer, helping to stabilize the pH of solutions.
+- Reactivity: Sodium bicarbonate is reactive with acids, producing carbon dioxide gas as one of the products. This reaction is commonly used in baking to leaven dough and in extinguishing small fires.
+- Hygroscopicity: Sodium bicarbonate can absorb moisture from the air, affecting its flow and texture over time.
+- Stability: It is stable under normal storage conditions, but it can slowly decompose over time, especially when exposed to heat and humidity.
+- Decomposition: Upon heating, sodium bicarbonate decomposes into sodium carbonate, water, and carbon dioxide gas.
+- Source: Sodium bicarbonate can be naturally occurring, mined from mineral deposits, or chemically synthesized.
+- Applications: Sodium bicarbonate has a wide range of applications, including baking, antacid formulations for indigestion relief, as a leavening agent in cooking, and as an ingredient in cleaning and deodorizing products.
